@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">CoStu App</string>
 
-    <!--  detail  -->
+    <!--  Detail  -->
     <string name="heroes_name">Nama Mahasiswa</string>
     <string name="nim_mahasiswa">NIM Mahasiswa</string>
     <string name="email_mahasiswa">Email Mahasiswa</string>
@@ -22,103 +22,122 @@
     <string name="status">Status</string>
 
     <!--  Bio  -->
+    <string name="about">About</string>
     <string name="said_muhammad_mazaya">Said Muhammad Mazaya</string>
     <string name="email_saya">saidmuhammad572@gmail.com</string>
-    <string name="about">About</string>
+    <string name="hobi">Hobi : Bermain Game, Jalan-jalan</string>
+    <string name="umur">Umur : 20 Tahun</string>
+    <string name="pendidikan">Pendidikan : Universitas Sumatera Utara</string>
 
 
     <string-array name="data_photo">
-        <item>https://cdn.myanimelist.net/images/manga/2/238873.jpg</item>
-        <item>https://cdn.myanimelist.net/images/manga/2/238873.jpg</item>
-        <item>https://cdn.myanimelist.net/images/manga/2/238873.jpg</item>
-        <item>https://cdn.myanimelist.net/images/manga/2/238873.jpg</item>
-        <item>https://cdn.myanimelist.net/images/manga/2/238873.jpg</item>
-        <item>https://cdn.myanimelist.net/images/manga/2/238873.jpg</item>
-        <item>https://cdn.myanimelist.net/images/manga/2/238873.jpg</item>
-        <item>https://cdn.myanimelist.net/images/manga/2/238873.jpg</item>
-        <item>https://cdn.myanimelist.net/images/manga/2/238873.jpg</item>
-        <item>https://cdn.myanimelist.net/images/manga/2/238873.jpg</item>
+        <item>https://static.vecteezy.com/system/resources/thumbnails/011/961/865/small/programmer-icon-line-color-illustration-vector.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/0/03/JROppenheimer-LosAlamos.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/2/23/Mark_Zuckerberg_F8_2018_Keynote.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/e/ed/Elon_Musk_Royal_Society.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/0/01/LinuxCon_Europe_Linus_Torvalds_03_%28cropped%29.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/c/c3/Sundar_Pichai_-_2023_%28cropped%29.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/7/78/MS-Exec-Nadella-Satya-2017-08-31-22_%28cropped%29.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/8/8e/Visit_of_Tim_Cook_to_the_European_Commission_-_P061904-946789.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/6/6c/Jeff_Bezos_at_Amazon_Spheres_Grand_Opening_in_Seattle_-_2018_%2839074799225%29_%28cropped%29.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/d/d0/31._ISC-Symposium-Jack_Ma-HSGN_028-01561.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/f/f5/Steve_Jobs_Headshot_2010-CROP2.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/0/04/Neil_Armstrong_Close-up.jpg</item>
     </string-array>
 
     <string-array name="data_name">
-        <item>Said Muhammad Mazaya</item>
-        <item>Said Muhammad Mazaya</item>
-        <item>Said Muhammad Mazaya</item>
-        <item>Said Muhammad Mazaya</item>
-        <item>Said Muhammad Mazaya</item>
-        <item>Said Muhammad Mazaya</item>
-        <item>Said Muhammad Mazaya</item>
-        <item>Said Muhammad Mazaya</item>
-        <item>Said Muhammad Mazaya</item>
-        <item>Said Muhammad Mazaya</item>
+        <item>SAID MUHAMMAD MAZAYA</item>
+        <item>J. ROBBERT OPPENHEIMER</item>
+        <item>MARK ZUCKERBERG</item>
+        <item>ELON MUSK</item>
+        <item>LINUS TORVALDS</item>
+        <item>SUNDAR PICHAI</item>
+        <item>SATYA NADELLA</item>
+        <item>TIM COOK</item>
+        <item>JEFF BEZOS</item>
+        <item>JACK MA</item>
+        <item>STEVE JOBS</item>
+        <item>NEIL ARMSTRONG</item>
     </string-array>
 
     <string-array name="data_nim">
         <item>221402129</item>
-        <item>221402129</item>
-        <item>221402129</item>
-        <item>221402129</item>
-        <item>221402129</item>
-        <item>221402129</item>
-        <item>221402129</item>
-        <item>221402129</item>
-        <item>221402129</item>
-        <item>221402129</item>
+        <item>281402099</item>
+        <item>271401194</item>
+        <item>221401247</item>
+        <item>190402382</item>
+        <item>260402450</item>
+        <item>200402741</item>
+        <item>230402205</item>
+        <item>240401923</item>
+        <item>300401018</item>
+        <item>900401015</item>
+        <item>917112956</item>
     </string-array>
 
     <string-array name="data_email">
         <item>saidmuhammad572@gmail.com</item>
-        <item>saidmuhammad572@gmail.com</item>
-        <item>saidmuhammad572@gmail.com</item>
-        <item>saidmuhammad572@gmail.com</item>
-        <item>saidmuhammad572@gmail.com</item>
-        <item>saidmuhammad572@gmail.com</item>
-        <item>saidmuhammad572@gmail.com</item>
-        <item>saidmuhammad572@gmail.com</item>
-        <item>saidmuhammad572@gmail.com</item>
-        <item>saidmuhammad572@gmail.com</item>
+        <item>jrobbertoppenheimer@example.com</item>
+        <item>markzuckerberg@example.com</item>
+        <item>elonmusk@example.com</item>
+        <item>linustorvalds@example.com</item>
+        <item>sundarpichai@example.com</item>
+        <item>satyanadella@example.com</item>
+        <item>timcook@example.com</item>
+        <item>jeffbezos@example.com</item>
+        <item>jackma@example.com</item>
+        <item>stevejobs@example.com</item>
+        <item>neilarmstrong@example.com</item>
     </string-array>
 
     <string-array name="data_angkatan">
         <item>2022</item>
+        <item>2028</item>
+        <item>2027</item>
         <item>2022</item>
-        <item>2022</item>
-        <item>2022</item>
-        <item>2022</item>
-        <item>2022</item>
-        <item>2022</item>
-        <item>2022</item>
-        <item>2022</item>
-        <item>2022</item>
+        <item>2019</item>
+        <item>2026</item>
+        <item>2020</item>
+        <item>2023</item>
+        <item>2024</item>
+        <item>1990</item>
+        <item>1991</item>
+        <item>2011</item>
     </string-array>
 
     <string-array name="data_fakultas">
-        <item>Ilmu Komputer dan Teknologi Informasi</item>
-        <item>Ilmu Komputer dan Teknologi Informasi</item>
-        <item>Ilmu Komputer dan Teknologi Informasi</item>
-        <item>Ilmu Komputer dan Teknologi Informasi</item>
-        <item>Ilmu Komputer dan Teknologi Informasi</item>
-        <item>Ilmu Komputer dan Teknologi Informasi</item>
-        <item>Ilmu Komputer dan Teknologi Informasi</item>
-        <item>Ilmu Komputer dan Teknologi Informasi</item>
-        <item>Ilmu Komputer dan Teknologi Informasi</item>
-        <item>Ilmu Komputer dan Teknologi Informasi</item>
+        <item>ILMU KOMPUTER DAN TEKNOLOGI INFORMASI</item>
+        <item>ILMU KOMPUTER DAN TEKNOLOGI INFORMASI</item>
+        <item>ILMU KOMPUTER DAN TEKNOLOGI INFORMASI</item>
+        <item>ILMU KOMPUTER DAN TEKNOLOGI INFORMASI</item>
+        <item>TEKNIK</item>
+        <item>TEKNIK</item>
+        <item>TEKNIK</item>
+        <item>TEKNIK</item>
+        <item>TEKNIK</item>
+        <item>TEKNIK</item>
+        <item>TEKNIK</item>
+        <item>KEDOKTERAN</item>
     </string-array>
 
     <string-array name="data_prodi">
         <item>Teknologi Informasi</item>
         <item>Teknologi Informasi</item>
-        <item>Teknologi Informasi</item>
-        <item>Teknologi Informasi</item>
-        <item>Teknologi Informasi</item>
-        <item>Teknologi Informasi</item>
-        <item>Teknologi Informasi</item>
-        <item>Teknologi Informasi</item>
-        <item>Teknologi Informasi</item>
-        <item>Teknologi Informasi</item>
+        <item>Ilmu Komputer</item>
+        <item>Ilmu Komputer</item>
+        <item>Teknik Elektro</item>
+        <item>Teknik Elektro</item>
+        <item>Teknik Elektro</item>
+        <item>Teknik Elektro</item>
+        <item>Teknik Mesin</item>
+        <item>Teknik Mesin</item>
+        <item>Teknik Mesin</item>
+        <item>Neurologi</item>
     </string-array>
 
     <string-array name="data_semester">
+        <item>1</item>
+        <item>1</item>
         <item>1</item>
         <item>1</item>
         <item>1</item>
@@ -135,12 +154,14 @@
         <item>Aktif</item>
         <item>Aktif</item>
         <item>Aktif</item>
+        <item>Drop Out</item>
         <item>Aktif</item>
         <item>Aktif</item>
         <item>Aktif</item>
         <item>Aktif</item>
         <item>Aktif</item>
-        <item>Aktif</item>
-        <item>Aktif</item>
+        <item>Lulus</item>
+        <item>Lulus</item>
+        <item>Lulus</item>
     </string-array>
 </resources>
