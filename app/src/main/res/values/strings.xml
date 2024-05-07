@@ -1,0 +1,146 @@
+<resources>
+    <string name="app_name">CoStu App</string>
+
+    <!--  detail  -->
+    <string name="heroes_name">Nama Mahasiswa</string>
+    <string name="nim_mahasiswa">NIM Mahasiswa</string>
+    <string name="email_mahasiswa">Email Mahasiswa</string>
+    <string name="angkatan_mahasiswa">Angkatan Mahasiswa</string>
+    <string name="fakultas_mahasiswa">Fakultas Mahasiswa</string>
+    <string name="prodi_mahasiswa">Program Studi Mahasiswa</string>
+    <string name="semester_mahasiswa">Semester Mahasiswa</string>
+    <string name="status_mahasiswa">Status Mahasiswa</string>
+
+    <!--  Label  -->
+    <string name="nama">Nama</string>
+    <string name="nim">NIM</string>
+    <string name="email">Email</string>
+    <string name="angkatan">Angkatan</string>
+    <string name="fakultas">Fakultas</string>
+    <string name="program_studi">Program Studi</string>
+    <string name="semester">Semester Terdaftar</string>
+    <string name="status">Status</string>
+
+    <!--  Bio  -->
+    <string name="said_muhammad_mazaya">Said Muhammad Mazaya</string>
+    <string name="email_saya">saidmuhammad572@gmail.com</string>
+    <string name="about">About</string>
+
+
+    <string-array name="data_photo">
+        <item>https://cdn.myanimelist.net/images/manga/2/238873.jpg</item>
+        <item>https://cdn.myanimelist.net/images/manga/2/238873.jpg</item>
+        <item>https://cdn.myanimelist.net/images/manga/2/238873.jpg</item>
+        <item>https://cdn.myanimelist.net/images/manga/2/238873.jpg</item>
+        <item>https://cdn.myanimelist.net/images/manga/2/238873.jpg</item>
+        <item>https://cdn.myanimelist.net/images/manga/2/238873.jpg</item>
+        <item>https://cdn.myanimelist.net/images/manga/2/238873.jpg</item>
+        <item>https://cdn.myanimelist.net/images/manga/2/238873.jpg</item>
+        <item>https://cdn.myanimelist.net/images/manga/2/238873.jpg</item>
+        <item>https://cdn.myanimelist.net/images/manga/2/238873.jpg</item>
+    </string-array>
+
+    <string-array name="data_name">
+        <item>Said Muhammad Mazaya</item>
+        <item>Said Muhammad Mazaya</item>
+        <item>Said Muhammad Mazaya</item>
+        <item>Said Muhammad Mazaya</item>
+        <item>Said Muhammad Mazaya</item>
+        <item>Said Muhammad Mazaya</item>
+        <item>Said Muhammad Mazaya</item>
+        <item>Said Muhammad Mazaya</item>
+        <item>Said Muhammad Mazaya</item>
+        <item>Said Muhammad Mazaya</item>
+    </string-array>
+
+    <string-array name="data_nim">
+        <item>221402129</item>
+        <item>221402129</item>
+        <item>221402129</item>
+        <item>221402129</item>
+        <item>221402129</item>
+        <item>221402129</item>
+        <item>221402129</item>
+        <item>221402129</item>
+        <item>221402129</item>
+        <item>221402129</item>
+    </string-array>
+
+    <string-array name="data_email">
+        <item>saidmuhammad572@gmail.com</item>
+        <item>saidmuhammad572@gmail.com</item>
+        <item>saidmuhammad572@gmail.com</item>
+        <item>saidmuhammad572@gmail.com</item>
+        <item>saidmuhammad572@gmail.com</item>
+        <item>saidmuhammad572@gmail.com</item>
+        <item>saidmuhammad572@gmail.com</item>
+        <item>saidmuhammad572@gmail.com</item>
+        <item>saidmuhammad572@gmail.com</item>
+        <item>saidmuhammad572@gmail.com</item>
+    </string-array>
+
+    <string-array name="data_angkatan">
+        <item>2022</item>
+        <item>2022</item>
+        <item>2022</item>
+        <item>2022</item>
+        <item>2022</item>
+        <item>2022</item>
+        <item>2022</item>
+        <item>2022</item>
+        <item>2022</item>
+        <item>2022</item>
+    </string-array>
+
+    <string-array name="data_fakultas">
+        <item>Ilmu Komputer dan Teknologi Informasi</item>
+        <item>Ilmu Komputer dan Teknologi Informasi</item>
+        <item>Ilmu Komputer dan Teknologi Informasi</item>
+        <item>Ilmu Komputer dan Teknologi Informasi</item>
+        <item>Ilmu Komputer dan Teknologi Informasi</item>
+        <item>Ilmu Komputer dan Teknologi Informasi</item>
+        <item>Ilmu Komputer dan Teknologi Informasi</item>
+        <item>Ilmu Komputer dan Teknologi Informasi</item>
+        <item>Ilmu Komputer dan Teknologi Informasi</item>
+        <item>Ilmu Komputer dan Teknologi Informasi</item>
+    </string-array>
+
+    <string-array name="data_prodi">
+        <item>Teknologi Informasi</item>
+        <item>Teknologi Informasi</item>
+        <item>Teknologi Informasi</item>
+        <item>Teknologi Informasi</item>
+        <item>Teknologi Informasi</item>
+        <item>Teknologi Informasi</item>
+        <item>Teknologi Informasi</item>
+        <item>Teknologi Informasi</item>
+        <item>Teknologi Informasi</item>
+        <item>Teknologi Informasi</item>
+    </string-array>
+
+    <string-array name="data_semester">
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+    </string-array>
+
+    <string-array name="data_status">
+        <item>Aktif</item>
+        <item>Aktif</item>
+        <item>Aktif</item>
+        <item>Aktif</item>
+        <item>Aktif</item>
+        <item>Aktif</item>
+        <item>Aktif</item>
+        <item>Aktif</item>
+        <item>Aktif</item>
+        <item>Aktif</item>
+    </string-array>
+</resources>
